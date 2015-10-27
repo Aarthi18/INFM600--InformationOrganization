@@ -1,2 +1,2 @@
 # INFM600-Aathi-KS
-Information Organisation Assignment 
+This dataset was created for Information Organisation Assignment.

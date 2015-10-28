@@ -78,8 +78,14 @@ Procedure used to combine the datasets
 	
 	5.The modified version of the focal dataset is saved as a new dataset named as “Libraries-Elementary Schools” 
 	
---------------------------------------- 
-
----------------------------------------
+------------------------------------
+Question to be analysed/ visualized 
+------------------------------------
+	
+	Determine the count of elementary and private schools in the vicinity of the libraries in Howard County. 
+	
+	The results can be visualized using a pie chart. 
+	The pie chart will represent percentage of elementary schools around every library in Howard County. 
+	* Note: The validity of the results is restricted to the scope of the datasets.
 
 

@@ -15,7 +15,7 @@ Files
 	* Elementary_School_Districts.xlsx
  	* Schools_Private.xlsx
  	* Libraries - Elementary Schools.xlsx
-
+<h1> Datasets </h1> 
 ----------------------------------------
 Focal Dataset - Howard County Libraries
 ----------------------------------------
@@ -25,7 +25,8 @@ Focal Dataset - Howard County Libraries
 	this dataset, we can assess the area in the vicinity of the library to identify
 	different primary schools. 
 	
-	 * R, Slivinsky (2015, April 28). Howard County Libraries. Retrieved October 27, 2015, from                                     https://opendata.howardcountymd.gov/Maps-Locations-and-Boundaries/Howard-County-Libraries/r2ng-89j6
+	* R, Slivinsky (2015, April 28). Howard County Libraries. Retrieved October 27, 2015, 
+	from https://opendata.howardcountymd.gov/Maps-Locations-and-Boundaries/Howard-County-Libraries/r2ng-89j6
 
 -------------------
 Secondary Datasets 
@@ -35,7 +36,7 @@ Secondary Datasets
 	
 	This dataset talks about the locations of various elementary schools in the Howard County Region. It contains the ID 	and name of the schools, the address and the geometric location.
 	
-	* Howard County Interactive Map:  Schools - Elementary. Retrieved from: 				https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Elementary&LayerName=Schools%20-%20Elementary#tab10. Date accessed: 10/27/2015
+	* Howard County Interactive Map:  Schools - Elementary. Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Elementary&LayerName=Schools%20-%20Elementary#tab10. Date accessed: 10/27/2015
 	
 	2) Schools_Private
 

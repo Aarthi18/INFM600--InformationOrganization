@@ -53,10 +53,15 @@ Description
 License 
 --------
 
+	This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this 			license, visit http://creativecommons.org/licenses/by/4.0/. 
 
 ----------
 References
 ----------
+	 
+	 Kalambur, Aarthi (2015, October 27). Libraries-Elementary Schools [Data Set] . 
+	 Available at https://github.com/Aarthi18/INFM600
+	 
 	 R, Slivinsky (2015, April 28). Howard County Libraries. Retrieved October 27, 2015, 
 	 from: https://opendata.howardcountymd.gov/Maps-Locations-and-Boundaries/Howard-County-Libraries/r2ng-89j6
 	 

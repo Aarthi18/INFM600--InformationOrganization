@@ -33,6 +33,7 @@ Files
 	This dataset combines the focal dataset with Elementary_School_District dataset. It contains the locations 
 	of elementary schools and the libraries. 
 	The detailed step by step procedure of how this file was created can be found on the URL:
+	https://github.com/Aarthi18/INFM600 
 	
  </p>
 
@@ -46,7 +47,7 @@ Description
 	of the libraries in Howard County. </i> The results can be best visualized using a pie chart.  
 	The pie chart will represent percentage of elementary schools around every library in Howard County.
 	The result will help us determine the total number of schools in the vicinity of the libraries
-	which will help the libraries 
+	which will the libraries 
 	* Note: The validity of the results is restricted to the scope of the datasets.
 </p>
 --------
@@ -59,7 +60,7 @@ License
 ----------
 References
 ----------
-<p> 	 
+	 
 	 Kalambur, Aarthi (2015, October 27). Libraries-Elementary Schools [Data Set] . 
 	 Available at https://github.com/Aarthi18/INFM600
 	 
@@ -71,7 +72,9 @@ References
 	
 	Howard County Interactive Map:Schools-Private [Data Set]. Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Private&LayerName
 	=Schools%20-%20Private#tab10. Date accessed: 27th October, 2015
-</p> 
 
+----------
+References
+----------
 
 

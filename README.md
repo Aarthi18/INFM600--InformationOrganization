@@ -33,7 +33,7 @@ Files
 <em> Secondary Datasets </em>
 -----------------------------
 
-	1) Elementary_School_District 
+	1)Elementary_School_District 
 	
 	This dataset talks about the locations of various elementary schools in the Howard County Region. It 
 	contains the ID and name of the schools, the address and the geometric location.
@@ -59,7 +59,7 @@ Files
 Procedure used to combine the datasets
 ---------------------------------------
 
-		1.The Elementary_School_District dataset is linked to the focal dataset primarily using the Street2 field.
+	1.The Elementary_School_District dataset is linked to the focal dataset primarily using the Street2 field.
 	This field consists of the city, state and zip code data which is  split as city and zip code in the focal
 	dataset as separate columns  ( ignoring the state data) 
 	

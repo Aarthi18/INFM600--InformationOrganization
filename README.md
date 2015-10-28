@@ -60,7 +60,7 @@ License
 ----------
 References
 ----------
-<p> 	 
+<span >	 
 	 Kalambur, Aarthi (2015, October 27). <i> Libraries - Elementary Schools </i>  [Data Set] . 
 	 Available at https://github.com/Aarthi18/INFM600-Aathi-KS.git<br> 
 	 
@@ -72,4 +72,5 @@ References
 	 
 	Howard County Interactive Map:<i> Schools_Private </i> [Data Set]. Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Private&LayerName
 	=Schools%20-%20Private#tab10. Date accessed: 27th October, 2015<br>
-</p> 
+ 
+</span> 

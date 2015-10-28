@@ -11,17 +11,17 @@ Version 1.0 (October 2015)
 Files
 -----
 
-	* Libraries.xlsx
-	* Elementary_School_Districts.xlsx
- 	* Schools_Private.xlsx
- 	* Libraries - Elementary Schools.xlsx
+	* Libraries.csv
+	* Elementary_School_Districts.csv
+ 	* Schools_Private.csv
+ 	* Libraries - Elementary Schools.csv
  
 <h1> Datasets </h1> 
 -------------------------------------------------
 <em> Focal Dataset </em> - Howard County Libraries
 --------------------------------------------------
 
-	The focal dataset links the locations of the different libraries in the Howard County. It contains
+	The focal dataset* links the locations of the different libraries in the Howard County. It contains
 	the name of the libraries, their ID, address and the geometric points. By visualizing and analyzing 
 	this dataset, we can assess the area in the vicinity of the library to identify
 	different primary schools. 
@@ -35,7 +35,7 @@ Files
 
 	1)Elementary_School_District 
 	
-	This dataset talks about the locations of various elementary schools in the Howard County Region. It 
+	This dataset* talks about the locations of various elementary schools in the Howard County Region. It 
 	contains the ID and name of the schools, the address and the geometric location.
 	
 <i>	* Howard County Interactive Map:  Schools - Elementary.
@@ -43,7 +43,7 @@ Files
 	
 	2) Schools_Private
 
-	This dataset shows about the locations of various private schools in the Howard County Region. It
+	This dataset* shows about the locations of various private schools in the Howard County Region. It
 	contains the ID and name of the schools, the address and the geometric location
 	
 <i>	* Howard County Interactive Map:  Schools - Private.

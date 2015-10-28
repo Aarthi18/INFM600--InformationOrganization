@@ -43,7 +43,7 @@ Description
 <p>	
 	The new datset "Library - Elementary Schools.csv" is created by joining the focal dataset 
 	 (Libraries.csv) and Elementary_School_Districts.csv. This dataset can be used answer 
-	the following question: <br> <i> Determine the count of elementary and private schools in the vicinity 
+	the following question:<br> <br> <i> Determine the count of elementary and private schools in the vicinity 
 	of the libraries in Howard County. </i> <br>  <br> The results can be best visualized using a pie chart.  
 	The pie chart will represent percentage of elementary schools around every library in Howard County.
 	The result will help us determine the total number of schools near the libraries.This can be used by

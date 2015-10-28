@@ -62,14 +62,14 @@ References
 ----------
 <p> 	 
 	 Kalambur, Aarthi (2015, October 27). <i> Libraries - Elementary Schools </i>  [Data Set] . 
-	 Available at https://github.com/Aarthi18/INFM600-Aathi-KS.git 
+	 Available at https://github.com/Aarthi18/INFM600-Aathi-KS.git<br> 
 	 
 	 R, Slivinsky (2015, April 28). <i> Howard County Libraries</i>. Retrieved October 27, 2015, 
-	 from: https://opendata.howardcountymd.gov/Maps-Locations-and-Boundaries/Howard-County-Libraries/r2ng-89j6
+	 from: https://opendata.howardcountymd.gov/Maps-Locations-and-Boundaries/Howard-County-Libraries/r2ng-89j6<br>
 	 
 	 Howard County Interactive Map:<i> Elementary_School_Districts </i> [Data Set]. Retrieved from:https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Elementary
-	 &LayerName=Schools%20-%20Elementary#tab10. Date accessed: 27th October, 2015
+	 &LayerName=Schools%20-%20Elementary#tab10 Date accessed: 27th October, 2015<br>
 	 
 	Howard County Interactive Map:<i> Schools_Private </i> [Data Set]. Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Private&LayerName
-	=Schools%20-%20Private#tab10. Date accessed: 27th October, 2015
+	=Schools%20-%20Private#tab10. Date accessed: 27th October, 2015<br>
 </p> 

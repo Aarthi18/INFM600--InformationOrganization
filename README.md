@@ -40,10 +40,10 @@ Files
 Description
 ------------
 <p>	
-	The new datset " Library - Elementary Schools.csv " is created by joining the focal dataset 
-	(Libraries.csv) and Elementary_School_Districts.csv. By analysing this dataset we can answer 
-	the following question:<i> <em> Determine the count of elementary and private schools in the 
-	of the libraries in Howard County.</em> </i> The results can be best visualized using a pie chart.  
+	The new datset "Library - Elementary Schools.csv" is created by joining the focal dataset 
+	 (Libraries.csv) and Elementary_School_Districts.csv. By analysing this dataset we can answer 
+	the following question:<i> Determine the count of elementary and private schools in the 
+	of the libraries in Howard County. </i> The results can be best visualized using a pie chart.  
 	The pie chart will represent percentage of elementary schools around every library in Howard County.
 	The result will help us determine the total number of schools in the vicinity of the libraries
 	which will help the libraries 
@@ -53,12 +53,13 @@ Description
 License 
 --------
 
-	This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this 			license, visit http://creativecommons.org/licenses/by/4.0/. 
+	This work is licensed under the Creative Commons Attribution 4.0 International License. To view a
+	copy of this license, visit http://creativecommons.org/licenses/by/4.0/. 
 
 ----------
 References
 ----------
-	 
+<p> 	 
 	 Kalambur, Aarthi (2015, October 27). Libraries-Elementary Schools [Data Set] . 
 	 Available at https://github.com/Aarthi18/INFM600
 	 
@@ -70,7 +71,7 @@ References
 	
 	Howard County Interactive Map:Schools-Private [Data Set]. Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Private&LayerName
 	=Schools%20-%20Private#tab10. Date accessed: 27th October, 2015
-
+</p> 
 
 
 

@@ -52,11 +52,30 @@ Files
 	=general:Schools_Private&LayerName=Schools%20-%20Private#tab10. Date accessed: 10/27/2015
 
 -------------------------------------------------------
-<i> New Dataset </i> -  Libraries - Elementary Schools
+<i> New Dataset </i> - Libraries - Elementary Schools
 -------------------------------------------------------
 
-	This dataset combines the focal dataset with Elementart_School_District dataset. It 
-	The procedure used to combine the 
+	This dataset combines the focal dataset with Elementart_School_District dataset. 
+	<i> The procedure used to combine the datasets are: </i>
+	
+	1.The Elementary_School_District dataset is linked to the focal dataset primarily using the Street2 field.
+	This field consists of the city, state and zip code data which is  split as city and zip code in the focal
+	dataset as separate columns  ( ignoring the state data) 
+	
+	2.The Steps involved in splitting Street2 column:
+			•Highlight the Street2 column.
+			•On the Data tab, click the Text to Column option.
+			•In the Convert Text to Column Wizard, select Delimited option.
+			•Select ‘Spaces’ in the options shown next.
+			•Click the finish button. 
+			
+	3.The FID of the schools, geometric points of the Elementary_School_District dataset are placed under the 			column FID and geom in the focal dataset respectively.
+	
+	4.The ES_Home column from the Elementary_School_District dataset has been added as an additional column to
+	the focal dataset.
+	
+	5.The modified version of the focal dataset is saved as a new dataset named as “ Libraries-Elementary Schools” 
+
 
 	
 	

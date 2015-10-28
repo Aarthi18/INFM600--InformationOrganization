@@ -74,3 +74,4 @@ References
 	 Howard County:<i> Schools_Private </i> [Data Set]. 
 	 Retrieved from: https://data.howardcountymd.gov/ 
 	 Date accessed: 27th October, 2015
+</p>

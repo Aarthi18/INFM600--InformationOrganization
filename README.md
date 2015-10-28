@@ -33,7 +33,7 @@ Files
 	This dataset combines the focal dataset with Elementary_School_District dataset. It contains the locations 
 	of elementary schools and the libraries. 
 	The detailed step by step procedure of how this file was created can be found on the URL:
-	https://github.com/Aarthi18/INFM600 
+	https://github.com/Aarthi18/INFM600-Aathi-KS.git  
 	
  </p>
 
@@ -62,7 +62,7 @@ References
 ----------
 	 
 	 Kalambur, Aarthi (2015, October 27). Libraries-Elementary Schools [Data Set] . 
-	 Available at https://github.com/Aarthi18/INFM600
+	 Available at https://github.com/Aarthi18/INFM600-Aathi-KS.git 
 	 
 	 R, Slivinsky (2015, April 28). Howard County Libraries. Retrieved October 27, 2015, 
 	 from: https://opendata.howardcountymd.gov/Maps-Locations-and-Boundaries/Howard-County-Libraries/r2ng-89j6

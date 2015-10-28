@@ -1,5 +1,5 @@
 # INFM600
-The dataset is created for the INFM600- Information Organization Assignment
+The Dataset is created for the INFM600- Information Organization Assignment
 
 -------
 Version
@@ -11,81 +11,53 @@ Version 1.0 (October 2015)
 Files
 -----
 
-	* Libraries.csv
-	* Elementary_School_Districts.csv
- 	* Schools_Private.csv
- 	* Libraries - Elementary Schools.csv
- 
-<h1> Datasets </h1> 
--------------------------------------------------
-<em> Focal Dataset </em> - Howard County Libraries
---------------------------------------------------
-
-	The focal dataset* links the locations of the different libraries in the Howard County. It contains
-	the name of the libraries, their ID, address and the geometric points. By visualizing and analyzing 
-	this dataset, we can assess the area in the vicinity of the library to identify
+* Libraries.csv
+	This is the focal dataset which links the locations of the different libraries in the Howard County.
+	It contains the name of the libraries, their ID, address and the geometric points. By visualizing 
+	and analyzing this dataset, we can assess the area in the vicinity of the library to identify
 	different primary schools. 
-	
-<i>	* R, Slivinsky (2015, April 28). Howard County Libraries. Retrieved October 27, 2015, 
-	from https://opendata.howardcountymd.gov/Maps-Locations-and-Boundaries/Howard-County-Libraries/r2ng-89j6 </i>
 
-----------------------------
-<em> Secondary Datasets </em>
------------------------------
+* Elementary_School_Districts.csv
+	This dataset talks about the locations of various elementary schools in the Howard County Region. It 
+	contains the ID and name of the schools, the address and the geometric location.	
 
-	1)Elementary_School_District 
-	
-	This dataset* talks about the locations of various elementary schools in the Howard County Region. It 
-	contains the ID and name of the schools, the address and the geometric location.
-	
-<i>	* Howard County Interactive Map:  Schools - Elementary.
-	Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Elementary&LayerName=Schools%20-%20Elementary#tab10. Date accessed: 10/27/2015 </i>
-	
-	2) Schools_Private
-
-	This dataset* shows about the locations of various private schools in the Howard County Region. It
+ * Schools_Private.csv
+ 	This dataset contains data about the locations of various private schools in the Howard County Region. It
 	contains the ID and name of the schools, the address and the geometric location
-	
-<i>	* Howard County Interactive Map:  Schools - Private.
-	Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Private&LayerName=Schools%20-%20Private#tab10. Date accessed: 10/27/2015 </i>
 
--------------------------------------------------------
-<em> New Dataset </em> - Libraries - Elementary Schools
--------------------------------------------------------
+* Libraries - Elementary Schools.csv
+	This dataset combines the focal dataset with Elementary_School_District dataset. It contains the locations 
+	of elementary schools and the libraries. 
+	The detailed step by step procedure of how this file was created can be found on the URL:
+	
+ 
 
-	This dataset combines the focal dataset with Elementart_School_District dataset. 
-
---------------------------------------- 
-Procedure used to combine the datasets
----------------------------------------
-
-	1.The Elementary_School_District dataset is linked to the focal dataset primarily using the Street2 field.
-	This field consists of the city, state and zip code data which is  split as city and zip code in the focal
-	dataset as separate columns  ( ignoring the state data) 
+------------
+Description 
+------------
 	
-	2.The Steps involved in splitting Street2 column:
-			•Highlight the Street2 column.
-			•On the Data tab, click the Text to Column option.
-			•In the Convert Text to Column Wizard, select Delimited option.
-			•Select ‘Spaces’ in the options shown next.
-			•Click the finish button. 
-			
-	3.The FID of the schools, geometric points of the Elementary_School_District dataset are placed under the 
-	column FID and geom in the focal dataset respectively.
-	
-	4.The ES_Home column from the Elementary_School_District dataset has been added as an additional column to 
-	the focal dataset.
-	
-	5.The modified version of the focal dataset is saved as a new dataset named as “Libraries-Elementary Schools” 
-	
-------------------------------------
-Question to be analysed/ visualized 
-------------------------------------
-	
-	Determine the count of elementary and private schools in the vicinity of the libraries in Howard County. 
-	
-	The results can be visualized using a pie chart. 
-	The pie chart will represent percentage of elementary schools around every library in Howard County. 
+	The new datset " Library - Elementary Schools.csv " is created by joining the focal dataset (Libraries.csv) and 		Elementary_School_Districts.csv. By analysing this dataset we can answer the following question:
+	<i> Determine the count of elementary and private schools in the vicinity of the libraries in Howard County. </i>
+	The results can be best visualized using a pie chart. 
+	The pie chart will represent percentage of elementary schools around every library in Howard County. The result will 	help us determine the total number of schools in the vicinity of the libraries which will help the libraries 
 	* Note: The validity of the results is restricted to the scope of the datasets.
+
+--------
+License 
+--------
+
+
+----------
+References
+----------
+	 R, Slivinsky (2015, April 28). Howard County Libraries. Retrieved October 27, 2015, from: 					https://opendata.howardcountymd.gov/Maps-Locations-and-Boundaries/Howard-County-Libraries/r2ng-89j6
+	 
+	 Howard County Interactive Map:  Schools - Elementary.
+	Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools		_Elementary&LayerName=Schools%20-%20Elementary#tab10. Date accessed: 27th October, 2015
+	
+	Howard County Interactive Map:  Schools - Private.
+	Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools		_Private&LayerName=Schools%20-%20Private#tab10. Date accessed: 27th October, 2015
+
+
 
 

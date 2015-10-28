@@ -61,16 +61,16 @@ License
 References
 ----------
  
-	 Kalambur, Aarthi (2015, October 27).Libraries - Elementary Schools  [Data Set] . 
+	 Kalambur, Aarthi (2015, October 27). Libraries - Elementary Schools  [Data Set] . 
 	 Available at https://github.com/Aarthi18/INFM600-Aathi-KS.git
 	 
-	 R, Slivinsky (2015, April 28).  Howard County Libraries. Retrieved October 27, 2015, 
+	 R, Slivinsky (2015, April 28).  Howard County Libraries. Date accessed: 27th October, 2015  
 	 from: https://opendata.howardcountymd.gov/Maps-Locations-and-Boundaries/Howard-County-Libraries/r2ng-89j6
 	 
-	 Howard County Interactive Map:Elementary_School_Districts [Data Set]. 
-	 Retrieved from:https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Elementary&LayerName=Schools%20-%20Elementary#tab10 
-	 Date accessed: 27th October, 2015
+	 Elementary_School_Districts (n.d)  [Data Set]. Date accessed: 27th October, 2015
+	 Retrieved from: https://data.howardcountymd.gov/ with format as csv
 	 
-	 Howard County Interactive Map: Schools_Private [Data Set]. 
-	 Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Private&LayerName=Schools%20-%20Private#tab10. 
-	 Date accessed: 27th October, 2015
+	 Schools_Private (n.d)  [Data Set]. Date accessed: 27th October, 2015 
+	 Retrieved from: https://data.howardcountymd.gov/  with format as csv
+	 
+

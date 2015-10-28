@@ -37,13 +37,15 @@ Files
 	
 	This dataset talks about the locations of various elementary schools in the Howard County Region. It contains the ID 	and name of the schools, the address and the geometric location.
 	
-	* Howard County Interactive Map:  Schools - Elementary. Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Elementary&LayerName=Schools%20-%20Elementary#tab10. Date accessed: 10/27/2015
+	* Howard County Interactive Map:  Schools - Elementary.
+	Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Elementary&LayerName=Schools%20-%20Elementary#tab10. Date accessed: 10/27/2015
 	
 	2) Schools_Private
 
 	This dataset shows about the locations of various private schools in the Howard County Region. It contains the ID and 	name of the schools, the address and the geometric location
 	
-	* Howard County Interactive Map:  Schools - Private. Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Private&LayerName=Schools%20-%20Private#tab10. Date accessed: 10/27/2015
+	* Howard County Interactive Map:  Schools - Private.
+	Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Private&LayerName=Schools%20-%20Private#tab10. Date accessed: 10/27/2015
 
 -------------------------------------------------------
 <i> New Dataset </i> -  Libraries - Elementary Schools

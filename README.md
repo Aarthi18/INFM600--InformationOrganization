@@ -39,8 +39,7 @@ Files
 	contains the ID and name of the schools, the address and the geometric location.
 	
 <i>	* Howard County Interactive Map:  Schools - Elementary.
-	Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer
-	=general:Schools_Elementary&LayerName=Schools%20-%20Elementary#tab10. Date accessed: 10/27/2015 </i>
+	Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Elementary&LayerName=Schools%20-%20Elementary#tab10. Date accessed: 10/27/2015 </i>
 	
 	2) Schools_Private
 
@@ -48,18 +47,19 @@ Files
 	contains the ID and name of the schools, the address and the geometric location
 	
 <i>	* Howard County Interactive Map:  Schools - Private.
-	Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer
-	=general:Schools_Private&LayerName=Schools%20-%20Private#tab10. Date accessed: 10/27/2015 </i>
+	Retrieved from: https://data.howardcountymd.gov/InteractiveMapV3.html?Workspace=IndividualLayer&Layer=general:Schools_Private&LayerName=Schools%20-%20Private#tab10. Date accessed: 10/27/2015 </i>
 
 -------------------------------------------------------
 <em> New Dataset </em> - Libraries - Elementary Schools
 -------------------------------------------------------
 
 	This dataset combines the focal dataset with Elementart_School_District dataset. 
-	
-	<em> The procedure used to combine the datasets are: </em>
-	
-	1.The Elementary_School_District dataset is linked to the focal dataset primarily using the Street2 field.
+
+--------------------------------------- 
+Procedure used to combine the datasets
+---------------------------------------
+
+		1.The Elementary_School_District dataset is linked to the focal dataset primarily using the Street2 field.
 	This field consists of the city, state and zip code data which is  split as city and zip code in the focal
 	dataset as separate columns  ( ignoring the state data) 
 	
@@ -76,13 +76,10 @@ Files
 	4.The ES_Home column from the Elementary_School_District dataset has been added as an additional column to 
 	the focal dataset.
 	
-	5.The modified version of the focal dataset is saved as a new dataset named as “ Libraries-Elementary Schools” 
+	5.The modified version of the focal dataset is saved as a new dataset named as “Libraries-Elementary Schools” 
+	
+--------------------------------------- 
 
+---------------------------------------
 
-	
-	
-	
-------- 
-License
--------
 
